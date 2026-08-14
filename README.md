@@ -72,7 +72,7 @@ Hey, I’m Aman, a Data Analyst and Software Engineer
  ### 🚀 Stay Connected & Join my Data Community
 If you enjoyed this project and want to keep learning and growing as a data analyst
 
-💼 LinkedIn: [Amlan Mohanty](linkedin.com/in/amandeepr24)
+💼 LinkedIn: [AmanDeep](linkedin.com/in/amandeepr24)
 - Let’s connect professionally and grow your data career
 
 
