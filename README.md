@@ -24,7 +24,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-  https://github.com/Amanrana24/Customer-Trend-Data-Analysic/edit/main
+ https://github.com/Amanrana24/Customer-Trend-Data-Analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
